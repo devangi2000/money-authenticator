@@ -1,1 +1,1 @@
-web: gunicorn app:money-authenticator
+web: gunicorn app:app
